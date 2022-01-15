@@ -1,0 +1,9 @@
+[submodule "face-detector-frontend"]
+	path = face-detector-frontend
+	url = https://github.com/silvavitor/face-detection-frontend
+[submodule "face-detection-backend"]
+	path = face-detection-backend
+	url = https://github.com/silvavitor/face-detection-api
+[submodule "face-detection-frontend"]
+	path = face-detection-frontend
+	url = https://github.com/silvavitor/face-detection-frontend
