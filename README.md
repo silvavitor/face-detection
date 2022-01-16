@@ -26,7 +26,10 @@ The development of this project was guided by the [The Complete Web Developer in
 
 ## :card_file_box: Database
 * [Postgres](https://www.postgresql.org/)  
-
+  
+## :rocket: Beyond the course
+* Added more than one face detection. The final project in the course only detecs one face per image. 
+   
 ## :camera: Demo
 
 ### :computer: Desktop
