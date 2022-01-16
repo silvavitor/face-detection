@@ -16,7 +16,7 @@ It's a Full-stack project that detects faces from images and store how many time
 
 The development of this project was guided by the [The Complete Web Developer in 2022: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course
 
-## :framed_picture: Front-end Built With
+## :framed_picture: [Front-end](https://github.com/silvavitor/face-detection-frontend/) Built With
 * [ReactJS](https://reactjs.org/)
 * [TS Particles](https://particles.js.org/)
 
