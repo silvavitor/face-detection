@@ -6,7 +6,6 @@
   <p align="center">
     A web app that uses machine learning to detect people faces.
     <br /><br />
-    <a href="https://silvavitor-face-detection.herokuapp.com/">View Demo</a>
   </p>
 </p>
 
