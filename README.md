@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://silvavitor-face-detection.herokuapp.com/">
-    <h1 align="center">Face Detection</h1>
+    <h1 align="center">Face Recognition</h1>
   </a>
   
   <p align="center">
